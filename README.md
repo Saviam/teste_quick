@@ -17,7 +17,6 @@
 - **LocalStorage**: Utilizado para armazenar dados de forma persistente no navegador do usuário durante o desenvolvimento.
 FakeApi fornecida pelo repositório.
 
-## Como Subir o Sistema
 
 ### Pré-requisitos
 - **Node.js**: Versão 21.7.1
@@ -27,5 +26,5 @@ FakeApi fornecida pelo repositório.
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/Saviam/teste_empresa.git
+   git clone https://github.com/Saviam/teste_quick.git
    cd teste_empresa
